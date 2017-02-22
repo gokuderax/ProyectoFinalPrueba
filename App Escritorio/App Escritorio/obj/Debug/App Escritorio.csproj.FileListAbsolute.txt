@@ -1,0 +1,17 @@
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\bin\Debug\App Escritorio.exe.config
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\bin\Debug\App Escritorio.exe
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\bin\Debug\App Escritorio.pdb
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\bin\Debug\Newtonsoft.Json.dll
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\bin\Debug\Newtonsoft.Json.xml
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\App Escritorio.csprojResolveAssemblyReference.cache
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\login.baml
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\login.g.cs
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\App.g.cs
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\App Escritorio_MarkupCompile.cache
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\App Escritorio.g.resources
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\App_Escritorio.Properties.Resources.resources
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\App Escritorio.csproj.GenerateResource.Cache
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\App Escritorio.exe
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\App Escritorio.pdb
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\Registro.baml
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\Registro.g.cs
