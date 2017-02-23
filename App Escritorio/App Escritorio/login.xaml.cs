@@ -34,8 +34,14 @@ namespace App_Escritorio
                 user.username=txtNombre.Text;
                 user.password1=txtPass.Password;
                 Rest rest = new Rest();
-                String result = rest.postUser(user, "http://localhost:3001/login/");
+                String result = rest.postUser(user, "http://localhost:3001/login/",true);
                 MessageBox.Show(result);
+                if (result.Contains("Login correcto"))
+                {
+                    FormTablas principal = new FormTablas();
+                    principal.Show();
+                    this.Hide();
+                }
         }
 
         private void btnRegistro_Click(object sender, RoutedEventArgs e)

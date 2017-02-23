@@ -4,10 +4,9 @@ var fs=require("fs");
 var bodyParser = require('body-parser');
 var routePath="./routes/*"; //add one folder then put your route files there my router folder name is routers
 
-
+app.set('jwtTokenSecret', 'secretvalue');
 app.use(bodyParser.urlencoded({extended:false}));
 app.use(bodyParser.json());
-
 
 function processRoutePath(route_path) {
      fs.readdirSync(route_path).forEach(function(file) {

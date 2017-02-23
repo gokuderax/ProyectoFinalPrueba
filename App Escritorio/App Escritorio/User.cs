@@ -19,5 +19,7 @@ namespace App_Escritorio
         public String password2 { get; set; }
         [JsonProperty("email")]
         public String email { get; set; }
+        public String token { get; set; }
+
     }
 }

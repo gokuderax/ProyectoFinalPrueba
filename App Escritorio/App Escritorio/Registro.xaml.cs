@@ -34,7 +34,7 @@ namespace App_Escritorio
             user.email = txtEmail.Text;
             Rest rest = new Rest();
 
-            String result = rest.postUser(user, "http://localhost:3001/registrer/");
+            String result = rest.postUser(user, "http://localhost:3001/registrer/",false);
             MessageBox.Show(result);
         }
     }

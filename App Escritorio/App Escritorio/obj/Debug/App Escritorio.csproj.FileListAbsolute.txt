@@ -15,3 +15,5 @@ D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\App Escritorio.ex
 D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\App Escritorio.pdb
 D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\Registro.baml
 D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\Registro.g.cs
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\FormTablas.baml
+D:\DAM2\Proyecto Final\App Escritorio\App Escritorio\obj\Debug\FormTablas.g.cs
